@@ -1,0 +1,5 @@
+language: python
+pthon:
+  - 3.6
+script:
+  - python test.py
